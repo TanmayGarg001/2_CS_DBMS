@@ -1,0 +1,6 @@
+https://phoenixnap.com/kb/how-to-create-new-mysql-user-account-grant-privileges
+https://www.inmotionhosting.com/support/server/databases/create-a-mysql-database/
+https://phoenixnap.com/kb/how-to-create-a-table-in-mysql
+https://www.youtube.com/watch?v=xbFwv8PF5X0
+https://www.youtube.com/watch?v=kaxrn_n7Jsg&list=PLN_AyVLb2C5AS-bcGFA8IW3e6qiDYjNip&index=12
+https://www.youtube.com/watch?v=0q7mBq-OoNo&list=PLN_AyVLb2C5AS-bcGFA8IW3e6qiDYjNip&index=13
